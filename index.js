@@ -3,3 +3,5 @@ var num2 = 2;
 var multiply = num1 * num2;
 
 var random = Math.random();
+
+var mod = 19 % 5
